@@ -1,0 +1,39 @@
+p {
+    color:blue;
+}
+
+.estilo {
+    color: red;
+} 
+
+#estilo2{
+    color: blueviolet;
+}
+
+.mytabla {
+    border: 1px solid black;
+ }
+
+ .mytabla2 {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.mytabla3 {
+    border:1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: left;
+  }
+
+  .mytabla4 {
+    border:1px solid black; 
+    padding: 5px;
+    border-spacing: 15px;
+  }
+
+  3500
+  7000  5000   15000   5000
+  php,  java,  python, c#
+
+  
