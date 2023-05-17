@@ -1,0 +1,12 @@
+Solo llama a los archivos que tenga extension js y css
+
+Vamos aplicar aqui Html5, CSS, BOOSTRAP5, CHAR.JS, JQUERY(Librerias)
+
+
+Para la proxima clase: 
+
+Ejercicio de aplicaciones
+
+JavaScript
+Ajax
+
